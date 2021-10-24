@@ -2,8 +2,8 @@
 #NOTE: MAKE SURE YOU HAVE INSTALLED, XML::Simple, Exporter and perl PDL
 
 ## You need to set smog2dir and perl4smog.  smog2dir is the main directory of the smog2 package (not the src directory).  perl4smog is the version of perl that you prefer to use.  
-perl4smog="/content/smog-2.4.2"
-smog2dir="/usr/bin/perl"
+smog2dir="/content/smog-2.4.2"
+perl4smog="/usr/bin/perl"
 
 ## don't change anything below this line
 ERROR="There were issues configuring SMOG. Configuration incomplete."
